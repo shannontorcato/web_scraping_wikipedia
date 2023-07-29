@@ -1,101 +1,101 @@
-Rank,Name,Industry,Revenue (USD millions),Revenue growth (in %),Employees,Headquarters
-1,Walmart,General merchandisers,572754.0,2.4,2300000.0,"Bentonville, Arkansas"
-2,Amazon,Retail and Cloud Computing,469822.0,21.7,1608000.0,"Seattle, Washington"
-3,Apple,Electronics industry,365817.0,33.2,154000.0,"Cupertino, California"
-4,CVS Health,Healthcare,292111.0,32.0,258000.0,"Woonsocket, Rhode Island"
-5,UnitedHealth Group,Healthcare,287597.0,11.8,350000.0,"Minnetonka, Minnesota"
-6,Exxon Mobil,Petroleum industry,285640.0,57.4,63000.0,"Spring, Texas"
-7,Berkshire Hathaway,Conglomerate,276094.0,12.5,372000.0,"Omaha, Nebraska"
-8,Alphabet,Technology,257637.0,41.2,156000.0,"Mountain View, California"
-9,McKesson Corporation,Health,238228.0,3.1,67500.0,"Irving, Texas"
-10,AmerisourceBergen,Pharmaceutical industry,213989.0,12.7,40000.0,"Chesterbrook, Pennsylvania"
-11,Microsoft,Technology,198087.0,17.5,181000.0,"Redmond, Washington"
-12,Costco,Retail,195929.0,17.5,288000.0,"Issaquah, Washington"
-13,Cigna,Health Insurance,174078.0,8.5,72963.0,"Bloomfield, Connecticut"
-14,AT&T,Conglomerate,168864.0,1.7,202600.0,"Dallas, Texas"
-15,Cardinal Health,Healthcare,162467.0,6.2,46827.0,"Dublin, Ohio"
-16,Chevron Corporation,Petroleum industry,162465.0,71.6,42595.0,"San Ramon, California"
-17,The Home Depot,Retail,151157.0,14.4,490600.0,"Atlanta, Georgia"
-18,Walgreens Boots Alliance,Pharmaceutical industry,148579.0,6.5,258500.0,"Deerfield, Illinois"
-19,Marathon Petroleum,Petroleum industry,141032.0,58.5,17700.0,"Findlay, Ohio"
-20,Elevance Health,Healthcare,138639.0,13.8,98200.0,"Indianapolis, Indiana"
-21,Kroger,Retail,137888.0,4.1,420000.0,"Cincinnati, Ohio"
-22,Ford Motor Company,Automotive industry,136341.0,7.2,183000.0,"Dearborn, Michigan"
-23,Verizon Communications,Telecommunications,133613.0,4.1,118400.0,"New York City, New York"
-24,JPMorgan Chase,Financial services,127202.0,1.8,271025.0,"New York City, New York"
-25,General Motors,Automotive,127004.0,3.7,157000.0,"Detroit, Michigan"
-26,Centene,Healthcare,125982.0,13.4,72500.0,"St. Louis, Missouri"
-27,Meta Platforms,Technology,117385.0,37.2,71970.0,"Menlo Park, California"
-28,Comcast,Telecommunications,116385.0,12.4,189000.0,"Philadelphia, Pennsylvania"
-29,Phillips 66,Petroleum industry,114852.0,75.4,14000.0,"Houston, Texas"
-30,Valero Energy,Petroleum industry,108332.0,80.2,9804.0,"San Antonio, Texas"
-31,Dell Technologies,Technology,106995.0,13.6,133000.0,"Round Rock, Texas"
-32,Target Corporation,Retail,106005.0,13.3,450000.0,"Minneapolis, Minnesota"
-33,Fannie Mae,Financials,101543.0,4.6,7400.0,"Washington, D.C."
-34,United Parcel Service,Transportation,97287.0,15.0,400945.0,"Atlanta, Georgia"
-35,Lowe's,Retail,96250.0,7.4,270000.0,"Mooresville, North Carolina"
-36,Bank of America,Financials,93851.0,0.1,208248.0,"Charlotte, North Carolina"
-37,Johnson & Johnson,Pharmaceutical industry,93775.0,13.6,141700.0,"New Brunswick, New Jersey"
-38,Archer Daniels Midland,Food industry,85959.0,32.5,39979.0,"Chicago, Illinois"
-39,FedEx,Transportation,83959.0,21.3,484000.0,"Memphis, Tennessee"
-40,Humana,Health Insurance,83064.0,7.7,95500.0,"Louisville, Kentucky"
-41,Wells Fargo,Financials,82407.0,2.6,247848.0,"San Francisco, California"
-42,State Farm,Financials,82407.0,4.2,53586.0,"Bloomington, Illinois"
-43,Pfizer,Pharmaceutical industry,81288.0,94.0,79000.0,"New York City, New York"
-44,Citigroup,Financials,79865.0,10.1,221768.0,"New York City, New York"
-45,PepsiCo,Beverage,79474.0,12.9,309000.0,"Purchase, New York"
-46,Intel,Technology,79024.0,1.5,121100.0,"Santa Clara, California"
-47,Procter & Gamble,Consumer products Manufacturing,76118.0,7.3,101000.0,"Cincinnati, Ohio"
-48,General Electric,Conglomerate,74196.0,6.8,168000.0,"Boston, Massachusetts"
-49,IBM,Technology,72344.0,1.7,297800.0,"Armonk, New York"
-50,MetLife,Financials,71080.0,4.8,43000.0,"New York City, New York"
-51,Prudential Financial,Financials,70934.0,24.4,40916.0,"Newark, New Jersey"
-52,Albertsons,Retail,69690.0,11.6,300000.0,"Boise, Idaho"
-53,The Walt Disney Company,Media,67418.0,3.1,171000.0,"Burbank, California"
-54,Energy Transfer Partners,Petroleum industry,67418.0,73.1,12558.0,"Dallas, Texas"
-55,Lockheed Martin,Aerospace and Defense,67044.0,2.5,114000.0,"Bethesda, Maryland"
-56,Freddie Mac,Financials,65898.0,0.5,7301.0,"McLean, Virginia"
-57,Goldman Sachs,Financials,64989.0,2.7,43900.0,"New York City, New York"
-58,Raytheon Technologies,Conglomerate,64388.0,13.8,174000.0,"Waltham, Massachusetts"
-59,HP,Technology,63487.0,12.1,51000.0,"Palo Alto, California"
-60,Boeing,Aerospace and defense,62286.0,7.1,142000.0,"Chicago, Illinois"
-61,Morgan Stanley,Financials,61121.0,17.4,74814.0,"New York City, New York"
-62,HCA Healthcare,Healthcare,58752.0,14.0,244000.0,"Nashville, Tennessee"
-63,AbbVie,Pharmaceutical industry,56197.0,22.7,50000.0,"Lake Bluff, Illinois"
-64,Dow Chemical Company,Chemical industry,54968.0,42.6,35700.0,"Midland, Michigan"
-65,Tesla,Automotive and Energy,53823.0,70.7,99290.0,"Austin, Texas"
-66,Allstate,Insurance,53228.0,18.8,54500.0,"Northfield Township, Cook County, Illinois"
-67,AIG,Insurance,52057.0,19.0,36600.0,"New York City, New York"
-68,Best Buy,Retail,51761.0,9.5,81375.0,"Richfield, Minnesota"
-69,Charter Communications,Telecommunications,51682.0,7.5,93700.0,"Stamford, Connecticut"
-70,Sysco,Food Service,51298.0,3.0,57710.0,"Houston, Texas"
-71,Merck & Co.,Pharmaceutical industry,51216.0,6.7,67500.0,"Kenilworth, New Jersey"
-72,New York Life Insurance Company,Insurance,51199.0,9.6,13344.0,"New York City, New York"
-73,Novartis,Pharmaceuticals,51332.0,6.0,110000.0,"Cambridge, Massachusetts"
-74,Caterpillar,Machinery,50971.0,22.1,107700.0,"Deerfield, Illinois"
-75,Cisco,Telecom Hardware Manufacturing,49818.0,1.0,79500.0,"San Jose, California"
-76,TJX,Retail,48550.0,51.1,340000.0,"Framingham, Massachusetts"
-77,Publix,Retail,48394.0,7.1,232000.0,"Lakeland, Florida"
-78,ConocoPhillips,Petroleum industry,48349.0,151.1,9900.0,"Houston, Texas"
-79,Liberty Mutual Group,Insurance,48200.0,10.1,45000.0,"Boston, Massachusetts"
-80,Progressive Corporation,Insurance,47702.0,11.8,49077.0,"Mayfield Village, Ohio"
-81,Nationwide Mutual Insurance Company,Financial,47376.0,13.0,24134.0,"Columbus, Ohio"
-82,Tyson Foods,Food Processing,47049.0,8.9,137000.0,"Springdale, Arkansas"
-83,Bristol-Myers Squibb,Pharmaceutical industry,46385.0,9.1,32200.0,"New York City, New York"
-84,GSK plc,Pharmaceuticals,44700.0,3.0,97000.0,"Philadelphia, Pennsylvania"
-85,Nike,Apparel,44538.0,19.1,73300.0,"Beaverton, Oregon"
-86,John Deere,Agriculture manufacturing,44024.0,23.9,75550.0,"Moline, Illinois"
-87,American Express,Financial,43663.0,14.3,64000.0,"New York City, New York"
-88,Abbott Laboratories,Medical devices,43075.0,24.5,113000.0,"Chicago, Illinois"
-89,StoneX Group,Financials,42534.0,21.4,3242.0,"New York City, New York"
-90,Plains All American Pipeline,Petroleum industry,42078.0,80.7,4100.0,"Houston, Texas"
-91,Enterprise Products,Petroleum industry,40807.0,50.0,6911.0,"Houston, Texas"
-92,TIAA,Insurance,40526.0,2.6,15065.0,"New York City, New York"
-93,Oracle Corporation,Software,40479.0,3.6,132000.0,"Austin, Texas"
-94,Thermo Fisher Scientific,Laboratory instruments,39211.0,21.7,129000.0,"Waltham, Massachusetts"
-95,Coca-Cola Company,Beverages,38655.0,17.1,79000.0,"Atlanta, Georgia"
-96,General Dynamics,Airspace and defense,38469.0,8.7,103100.0,"Reston, Virginia"
-97,CHS,Agriculture cooperative,38448.0,1.4,9941.0,"Inver Grove Heights, Minnesota"
-98,USAA,Financials,37470.0,3.2,37335.0,"San Antonio, Texas"
-99,Northwestern Mutual,Insurance,36751.0,8.8,7585.0,"Milwaukee, Wisconsin"
-100,Nucor,Metals,36484.0,81.2,28800.0,"Charlotte, North Carolina"
+Rank,Name,Industry,Revenue (USD millions),Revenue growth (in %),Employees,Headquarters,City,State
+1,Walmart,General merchandisers,572754,2.4,2300000,"Bentonville, Arkansas",Bentonville,Arkansas
+82,Tyson Foods,Food Processing,47049,8.9,137000,"Springdale, Arkansas",Springdale,Arkansas
+3,Apple,Electronics industry,365817,33.2,154000,"Cupertino, California",Cupertino,California
+8,Alphabet,Technology,257637,41.2,156000,"Mountain View, California",Mountain View,California
+16,Chevron Corporation,Petroleum industry,162465,71.6,42595,"San Ramon, California",San Ramon,California
+27,Meta Platforms,Technology,117385,37.2,71970,"Menlo Park, California",Menlo Park,California
+41,Wells Fargo,Financials,82407,2.6,247848,"San Francisco, California",San Francisco,California
+46,Intel,Technology,79024,1.5,121100,"Santa Clara, California",Santa Clara,California
+53,The Walt Disney Company,Media,67418,3.1,171000,"Burbank, California",Burbank,California
+59,HP,Technology,63487,12.1,51000,"Palo Alto, California",Palo Alto,California
+75,Cisco,Telecom Hardware Manufacturing,49818,1,79500,"San Jose, California",San Jose,California
+13,Cigna,Health Insurance,174078,8.5,72963,"Bloomfield, Connecticut",Bloomfield,Connecticut
+69,Charter Communications,Telecommunications,51682,7.5,93700,"Stamford, Connecticut",Stamford,Connecticut
+33,Fannie Mae,Financials,101543,4.6,7400,"Washington, D.C.",Washington,D.C.
+77,Publix,Retail,48394,7.1,232000,"Lakeland, Florida",Lakeland,Florida
+17,The Home Depot,Retail,151157,14.4,490600,"Atlanta, Georgia",Atlanta,Georgia
+34,United Parcel Service,Transportation,97287,15,400945,"Atlanta, Georgia",Atlanta,Georgia
+95,Coca-Cola Company,Beverages,38655,17.1,79000,"Atlanta, Georgia",Atlanta,Georgia
+52,Albertsons,Retail,69690,11.6,300000,"Boise, Idaho",Boise,Idaho
+66,Allstate,Insurance,53228,18.8,54500,"Northfield Township, Cook County, Illinois",Northfield Township,Illinois
+18,Walgreens Boots Alliance,Pharmaceutical industry,148579,6.5,258500,"Deerfield, Illinois",Deerfield,Illinois
+38,Archer Daniels Midland,Food industry,85959,32.5,39979,"Chicago, Illinois",Chicago,Illinois
+42,State Farm,Financials,82407,4.2,53586,"Bloomington, Illinois",Bloomington,Illinois
+60,Boeing,Aerospace and defense,62286,7.1,142000,"Chicago, Illinois",Chicago,Illinois
+63,AbbVie,Pharmaceutical industry,56197,22.7,50000,"Lake Bluff, Illinois",Lake Bluff,Illinois
+74,Caterpillar,Machinery,50971,22.1,107700,"Deerfield, Illinois",Deerfield,Illinois
+86,John Deere,Agriculture manufacturing,44024,23.9,75550,"Moline, Illinois",Moline,Illinois
+88,Abbott Laboratories,Medical devices,43075,24.5,113000,"Chicago, Illinois",Chicago,Illinois
+20,Elevance Health,Healthcare,138639,13.8,98200,"Indianapolis, Indiana",Indianapolis,Indiana
+40,Humana,Health Insurance,83064,7.7,95500,"Louisville, Kentucky",Louisville,Kentucky
+55,Lockheed Martin,Aerospace and Defense,67044,2.5,114000,"Bethesda, Maryland",Bethesda,Maryland
+48,General Electric,Conglomerate,74196,6.8,168000,"Boston, Massachusetts",Boston,Massachusetts
+58,Raytheon Technologies,Conglomerate,64388,13.8,174000,"Waltham, Massachusetts",Waltham,Massachusetts
+73,Novartis,Pharmaceuticals,51332,6,110000,"Cambridge, Massachusetts",Cambridge,Massachusetts
+76,TJX,Retail,48550,51.1,340000,"Framingham, Massachusetts",Framingham,Massachusetts
+79,Liberty Mutual Group,Insurance,48200,10.1,45000,"Boston, Massachusetts",Boston,Massachusetts
+94,Thermo Fisher Scientific,Laboratory instruments,39211,21.7,129000,"Waltham, Massachusetts",Waltham,Massachusetts
+22,Ford Motor Company,Automotive industry,136341,7.2,183000,"Dearborn, Michigan",Dearborn,Michigan
+25,General Motors,Automotive,127004,3.7,157000,"Detroit, Michigan",Detroit,Michigan
+64,Dow Chemical Company,Chemical industry,54968,42.6,35700,"Midland, Michigan",Midland,Michigan
+5,UnitedHealth Group,Healthcare,287597,11.8,350000,"Minnetonka, Minnesota",Minnetonka,Minnesota
+32,Target Corporation,Retail,106005,13.3,450000,"Minneapolis, Minnesota",Minneapolis,Minnesota
+68,Best Buy,Retail,51761,9.5,81375,"Richfield, Minnesota",Richfield,Minnesota
+97,CHS,Agriculture cooperative,38448,1.4,9941,"Inver Grove Heights, Minnesota",Inver Grove Heights,Minnesota
+26,Centene,Healthcare,125982,13.4,72500,"St. Louis, Missouri",St. Louis,Missouri
+7,Berkshire Hathaway,Conglomerate,276094,12.5,372000,"Omaha, Nebraska",Omaha,Nebraska
+37,Johnson & Johnson,Pharmaceutical industry,93775,13.6,141700,"New Brunswick, New Jersey",New Brunswick,New Jersey
+51,Prudential Financial,Financials,70934,24.4,40916,"Newark, New Jersey",Newark,New Jersey
+71,Merck & Co.,Pharmaceutical industry,51216,6.7,67500,"Kenilworth, New Jersey",Kenilworth,New Jersey
+23,Verizon Communications,Telecommunications,133613,4.1,118400,"New York City, New York",New York City,New York
+24,JPMorgan Chase,Financial services,127202,1.8,271025,"New York City, New York",New York City,New York
+43,Pfizer,Pharmaceutical industry,81288,94,79000,"New York City, New York",New York City,New York
+44,Citigroup,Financials,79865,10.1,221768,"New York City, New York",New York City,New York
+45,PepsiCo,Beverage,79474,12.9,309000,"Purchase, New York",Purchase,New York
+49,IBM,Technology,72344,1.7,297800,"Armonk, New York",Armonk,New York
+50,MetLife,Financials,71080,4.8,43000,"New York City, New York",New York City,New York
+57,Goldman Sachs,Financials,64989,2.7,43900,"New York City, New York",New York City,New York
+61,Morgan Stanley,Financials,61121,17.4,74814,"New York City, New York",New York City,New York
+67,AIG,Insurance,52057,19,36600,"New York City, New York",New York City,New York
+72,New York Life Insurance Company,Insurance,51199,9.6,13344,"New York City, New York",New York City,New York
+83,Bristol-Myers Squibb,Pharmaceutical industry,46385,9.1,32200,"New York City, New York",New York City,New York
+87,American Express,Financial,43663,14.3,64000,"New York City, New York",New York City,New York
+89,StoneX Group,Financials,42534,21.4,3242,"New York City, New York",New York City,New York
+92,TIAA,Insurance,40526,2.6,15065,"New York City, New York",New York City,New York
+35,Lowe's,Retail,96250,7.4,270000,"Mooresville, North Carolina",Mooresville,North Carolina
+36,Bank of America,Financials,93851,0.1,208248,"Charlotte, North Carolina",Charlotte,North Carolina
+100,Nucor,Metals,36484,81.2,28800,"Charlotte, North Carolina",Charlotte,North Carolina
+15,Cardinal Health,Healthcare,162467,6.2,46827,"Dublin, Ohio",Dublin,Ohio
+19,Marathon Petroleum,Petroleum industry,141032,58.5,17700,"Findlay, Ohio",Findlay,Ohio
+21,Kroger,Retail,137888,4.1,420000,"Cincinnati, Ohio",Cincinnati,Ohio
+47,Procter & Gamble,Consumer products Manufacturing,76118,7.3,101000,"Cincinnati, Ohio",Cincinnati,Ohio
+80,Progressive Corporation,Insurance,47702,11.8,49077,"Mayfield Village, Ohio",Mayfield Village,Ohio
+81,Nationwide Mutual Insurance Company,Financial,47376,13,24134,"Columbus, Ohio",Columbus,Ohio
+85,Nike,Apparel,44538,19.1,73300,"Beaverton, Oregon",Beaverton,Oregon
+10,AmerisourceBergen,Pharmaceutical industry,213989,12.7,40000,"Chesterbrook, Pennsylvania",Chesterbrook,Pennsylvania
+28,Comcast,Telecommunications,116385,12.4,189000,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania
+84,GSK plc,Pharmaceuticals,44700,3,97000,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania
+4,CVS Health,Healthcare,292111,32,258000,"Woonsocket, Rhode Island",Woonsocket,Rhode Island
+39,FedEx,Transportation,83959,21.3,484000,"Memphis, Tennessee",Memphis,Tennessee
+62,HCA Healthcare,Healthcare,58752,14,244000,"Nashville, Tennessee",Nashville,Tennessee
+6,Exxon Mobil,Petroleum industry,285640,57.4,63000,"Spring, Texas",Spring,Texas
+9,McKesson Corporation,Health,238228,3.1,67500,"Irving, Texas",Irving,Texas
+14,AT&T,Conglomerate,168864,1.7,202600,"Dallas, Texas",Dallas,Texas
+29,Phillips 66,Petroleum industry,114852,75.4,14000,"Houston, Texas",Houston,Texas
+30,Valero Energy,Petroleum industry,108332,80.2,9804,"San Antonio, Texas",San Antonio,Texas
+31,Dell Technologies,Technology,106995,13.6,133000,"Round Rock, Texas",Round Rock,Texas
+54,Energy Transfer Partners,Petroleum industry,67418,73.1,12558,"Dallas, Texas",Dallas,Texas
+65,Tesla,Automotive and Energy,53823,70.7,99290,"Austin, Texas",Austin,Texas
+70,Sysco,Food Service,51298,3,57710,"Houston, Texas",Houston,Texas
+78,ConocoPhillips,Petroleum industry,48349,151.1,9900,"Houston, Texas",Houston,Texas
+90,Plains All American Pipeline,Petroleum industry,42078,80.7,4100,"Houston, Texas",Houston,Texas
+91,Enterprise Products,Petroleum industry,40807,50,6911,"Houston, Texas",Houston,Texas
+93,Oracle Corporation,Software,40479,3.6,132000,"Austin, Texas",Austin,Texas
+98,USAA,Financials,37470,3.2,37335,"San Antonio, Texas",San Antonio,Texas
+56,Freddie Mac,Financials,65898,0.5,7301,"McLean, Virginia",McLean,Virginia
+96,General Dynamics,Airspace and defense,38469,8.7,103100,"Reston, Virginia",Reston,Virginia
+2,Amazon,Retail and Cloud Computing,469822,21.7,1608000,"Seattle, Washington",Seattle,Washington
+11,Microsoft,Technology,198087,17.5,181000,"Redmond, Washington",Redmond,Washington
+12,Costco,Retail,195929,17.5,288000,"Issaquah, Washington",Issaquah,Washington
+99,Northwestern Mutual,Insurance,36751,8.8,7585,"Milwaukee, Wisconsin",Milwaukee,Wisconsin
